@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DemoNYTimes</string>
+    <string name="title_viewed">Most
+        Viewed</string>
+    <string name="title_shared">Most
+    Shared</string>
+    <string name="title_emailed">Most
+    Emailed</string>
+
+    <string name="text_no_connectivity">No internet connection</string>
+
+    <string name="title_holder">Facebook Said Not to Consider Banning Political Ads</string>
+    <string name="desc_holder">The social network has been under intense pressure for allowing misinformation and hate speech to spread on its site.</string>
+    <string name="author">By Sanju S</string>
+    <string name="okay">Okay</string>
+</resources>
